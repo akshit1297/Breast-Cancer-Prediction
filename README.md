@@ -6,7 +6,7 @@ The links to the project notebook, proposal and the write-up of the final
 project are below.
 
 * [The project Notebook: Capstone Project - BreastCancerPred.ipynb](Capstone%20Project%20-%20BreastCancerPred.ipynb)
-* [The project proposal: Proposal.pdf](Proposal.pdf) 
+* [The project proposal: Proposal.pdf](Proposal%20.pdf) 
 * [The final project report: Report.pdf](Report.pdf) 
 
 Additionally you will find: 
